@@ -1,0 +1,75 @@
+.principal{
+    background: #5a8bc2;
+    border-radius: 10px;
+    
+    
+}
+
+h1{
+    color: white;
+       
+}
+
+#gif{
+    width: 250px;
+    margin-left: 40%;
+    border-radius: 190px;
+
+}
+
+#primeirobloco{
+    text-align: center;
+
+}
+
+
+.habilidades{
+    background: white;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;  
+    
+}
+
+
+h2{
+    text-align: center;
+}
+
+#alura{
+    padding: 5px 0;
+    border: 1px solid #5a8bc2;
+    text-align: center;
+}
+
+#github{
+    padding: 5px 0;
+    border: 1px solid #5a8bc2;
+    text-align: center;
+}
+#linkedin{
+    padding: 5px 0;
+    border: 1px solid #5a8bc2;
+    text-align: center;
+}
+
+#instagram{
+    padding: 5px -5;
+    border: 1px solid #5a8bc2;
+    text-align: center;
+}
+
+#whats{
+    padding: 5px 0;
+    border: 1px solid #5a8bc2;
+    text-align: center;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	}
+a:hover {text-decoration: underline;
+	color:#000;
+	font-size:150%;
+	}
